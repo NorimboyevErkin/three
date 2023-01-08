@@ -5,7 +5,7 @@ import Model from "../components/model";
 import { Canvas } from "@react-three/fiber";
 import { useMediaQuery } from "react-responsive";
 
-import Loader from "../components/model/components/Loader/Loader";
+import Loader from "../components/Loader/loader";
 
 const inter = Inter({ subsets: ["latin"] });
 
